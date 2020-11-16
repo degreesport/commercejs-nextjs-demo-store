@@ -27,7 +27,11 @@ const mobileMenuLinks = [
     link: '/'
   },
   {
-    name: 'Shop',
+    name: 'Our Work',
+    link: '/work'
+  },
+  {
+    name: 'Packages',
     link: '/collection'
   },
   {

@@ -41,7 +41,7 @@ export default class HeroSection extends Component {
                  Frustrated with poor results while attempting to use design tools?
                 </p>
                 <p className="text-transform-uppercase font-size-title mb-5 hero-subheader">
-                  We will help you to articulate your message and build marketing that is clear and elegant.
+                  We will articulate your message and build marketing that is clear and elegant.
                 </p>
                 <Link href="/collection">
                   <a className="d-flex align-items-center bg-transparent border border-color-white h-56 px-5 font-color-white hero-btn">
